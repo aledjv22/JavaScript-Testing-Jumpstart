@@ -1,5 +1,7 @@
 # JavaScript Testing Jumpstart
 
+[Documentation in Spanish](README_es.md)
+
 ## Description
 
 Welcome to the JavaScript Testing Jumpstart repository! Here you'll find all the files and resources used during the practical exercises of the "Introducción al Testing con JavaScript" course. This repository serves as a comprehensive reference for practicing and mastering JavaScript testing techniques.
@@ -27,3 +29,5 @@ If you find any errors, have suggestions for improvements, or want to contribute
 ## License
 
 This repository is licensed under the MIT License. Feel free to use, modify, and distribute the contents of this repository for educational and non-commercial purposes.
+
+
